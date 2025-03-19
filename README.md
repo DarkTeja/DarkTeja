@@ -2,7 +2,7 @@
 - 👀 I’m interested in python,webdevelopment
 - 🌱 I’m currently learning ml
 - 💞️ I’m looking to collaborate with any organization
-- 📫 reach me through mail jnanateja44@gmail.com
+- 📫 reach me through mail chintajnanateja@gmail.com
 - 😄 Pronouns:he/him
 - ⚡ Fun facts:- START WHERE YOU ARE ,USE WHAT YOU HAVE,DO WHAT YOU CAN.
 <!---
