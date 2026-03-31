@@ -85,11 +85,11 @@ const teja = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=DarkTeja&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=e2e8f0&bg_color=0f0c29&langs_count=10" />
+<img width="70%" src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=DarkTeja&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=e2e8f0&bg_color=0f0c29&langs_count=10" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkTeja&theme=tokyonight&hide_border=true&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&background=0f0c29" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkTeja&theme=tokyonight&hide_border=true&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&background=0f0c29" />
 
 </div>
 
