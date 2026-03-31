@@ -1,79 +1,87 @@
 <div align="center">
 
-<!-- Retro Gaming Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:24243e&height=180&section=header&text=PLAYER:%20DARKTEJA%20🎮&fontSize=45&fontColor=00FF41&fontAlignY=35&desc=LEVEL%20UP%20YOUR%20DIGITAL%20WORLD&descAlignY=60&descSize=15&animation=twinkling" />
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%20There!%20I'm%20Teja%20⚡&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Automation%20Wizard%20%7C%20Builder%20of%20Cool%20Stuff&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Status Bar -->
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=LOADING+PLAYER+DATA...;INITIALIZING+SKILL+TREE...;WELCOME+TO+THE+GAMING+WORLD!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Full+Stack+Developer;%E2%9A%99%EF%B8%8F+Agentic+AI+%26+n8n+Automation;%F0%9F%8C%90+Angular+%2B+Node+%2B+Express+Wizard;%F0%9F%90%8D+Python+Enthusiast;%F0%9F%94%A5+Always+Building+Something+Cool!" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Hero Badges -->
-[![Level](https://img.shields.io/badge/Level-24-blue?style=for-the-badge&logo=gameter)](https://github.com/DarkTeja)
-[![Class](https://img.shields.io/badge/Class-Full%20Stack%20Wizard-A78BFA?style=for-the-badge)](https://github.com/DarkTeja)
-[![Quests](https://img.shields.io/badge/Quests_Completed-22-green?style=for-the-badge)](https://github.com/DarkTeja)
+<!-- Social Badges -->
+[![GitHub](https://img.shields.io/badge/GitHub-DarkTeja-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkTeja)
+[![Open to Work](https://img.shields.io/badge/🟢_Open_to-Opportunities-22c55e?style=for-the-badge)](#)
+[![Profile Views](https://komarev.com/ghpvc/?username=DarkTeja&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/DarkTeja)
 
 </div>
 
 ---
 
-## 🎭 Character Sheet
+## 👾 Who Am I?
 
-```yaml
-Character:
-  Name: Chinta Jnana Teja
-  Alliance: DarkTeja 🌑
-  Class: Full Stack Automation Rogue
-  Location: India 🇮🇳
-  Main Quest: Building Agentic AI Pipelines with n8n 🤖
-  Superpower: Turning Coffee into Bug-Free Code ☕✨
-  Status: Leveling up in LangGraph & RAG Systems 🌙
+```javascript
+const teja = {
+  name:       "Chinta Jnana Teja",
+  alias:      "DarkTeja 🌑",
+  role:       "Full Stack Developer",
+  location:   "India 🇮🇳",
+  superpower: "Turning coffee ☕ into scalable web apps & AI automations",
+  currently:  "Building agentic workflows with n8n 🤖",
+  funFact:    "I debug at 2AM and it somehow always works 🌙",
+};
 ```
 
 ---
 
-## ⚡ Ability Tree (Skills)
+## 🛠️ My Tech Arsenal
 
-### ⚔️ Primary Weapons (Frontend)
+<div align="center">
+
+### 🎨 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🛡️ Defense & Support (Backend)
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🧙 Dark Arts (AI & Automation)
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🤖 Agentic AI & Automation
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
----
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🎒 Inventory (Tools)
-
-<div align="center">
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 </div>
 
 ---
 
-## 📜 Active Quests (Current Focus)
+## 🔥 What I'm Up To
 
-- 🔭 **Project Alpha** → *Building Agentic AI pipelines using n8n + LLMs* 🤖
-- 🌱 **Learning Path** → *Mastering LangGraph, RAG Systems & Vector DBs* 📚
-- 💡 **Exploration** → *AI-powered SaaS products development* 🚀
-- ⚡ **Side Quest** → *Contributing to Open Source world* 🌍
+```
+🔭  Currently Building  →  Agentic AI pipelines using n8n + LLMs
+🌱  Currently Learning  →  LangGraph, RAG Systems & Vector DBs
+💡  Exploring          →  AI-powered SaaS products
+⚡  Side Quest         →  Open source contributions
+```
 
 ---
 
-## 🏆 Global Leaderboard (Stats)
+## 📊 GitHub Stats — The Proof is in the Commits
 
 <div align="center">
 
@@ -83,7 +91,23 @@ Character:
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkTeja&theme=tokyonight&hide_border=true&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&background=0f0c29" />
 
-<br/>
+</div>
+
+---
+
+## 🏆 Activity Summary
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkTeja&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DarkTeja&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=a78bfa&line=f472b6&point=ffffff" />
 
@@ -91,15 +115,26 @@ Character:
 
 ---
 
-## 🤝 Multiplayer (Join My Party)
+## 💼 Open to Opportunities!
 
 <div align="center">
 
-**Wanna Build Something Legendary Together? 🚀**
+```
+╔══════════════════════════════════════════════════════════╗
+║  🟢  AVAILABLE FOR HIRE                                  ║
+║                                                          ║
+║  💼  Full Stack Development roles                        ║
+║  🤖  AI / Automation consulting                          ║
+║  🚀  Freelance & Contract projects                       ║
+║  🌍  Remote-friendly | Open to Relocation               ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-[![Email](https://img.shields.io/badge/Send_Invite-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chintajnanateja@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Add_To_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/Follow_Player-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkTeja)
+**Let's build something legendary together! 🚀**
+
+[![Email](https://img.shields.io/badge/Shoot_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chintajnanateja@gmail.com)
+<!-- [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) -->
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkTeja)
 
 </div>
 
@@ -108,6 +143,6 @@ Character:
 <div align="center">
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:000000&height=100&section=footer&text=GAME%20OVER?%20NO,%20JUST%20BEGINNING!&fontSize=16&fontColor=00FF41&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20⭐%20if%20you%20like%20my%20work!&fontSize=16&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" />
 
 </div>
