@@ -85,20 +85,20 @@ const teja = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DarkTeja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a78bfa&icon_color=f472b6&text_color=e2e8f0&bg_color=0f0c29" />
+<img width="49%" src="https://github-readme-stats-mirror.vercel.app/api?username=DarkTeja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a78bfa&icon_color=f472b6&text_color=e2e8f0&bg_color=0f0c29" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkTeja&theme=tokyonight&hide_border=true&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&background=0f0c29" />
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkTeja&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=e2e8f0&bg_color=0f0c29&langs_count=8" />
+<img width="50%" src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=DarkTeja&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=e2e8f0&bg_color=0f0c29&langs_count=8" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Activity Summary
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=DarkTeja&theme=radical&no-frame=true&row=1&column=7&margin-w=10" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkTeja&theme=tokyonight" />
 
 </div>
 
@@ -131,8 +131,8 @@ const teja = {
 
 **Let's build something legendary together! 🚀**
 
-[![Email](https://img.shields.io/badge/Shoot_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Shoot_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chintajnanateja@gmail.com)
+<!-- [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) -->
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkTeja)
 
 </div>
